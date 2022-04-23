@@ -1,13 +1,13 @@
 # CodeIgniter 4 Application Starter
 
-Make Sure your PC already have PHP to run CLI PHP spark serve
-just download it here [PHP Download](https://www.php.net/downloads.php)
-then extract all the file on folder at Root C:\PHP-Version
-if you use windows dont forget to add the path in environment variable
-edit php.ini and delete semicolon ";" at extension=intl
+Make Sure your PC already have PHP to run CLI PHP spark serve.
+just download it here [PHP Download](https://www.php.net/downloads.php).
+then extract all the file on folder at Root C:\PHP-Version.
+if you use windows dont forget to add the path in environment variable.
+edit php.ini and delete semicolon ";" at extension=intl.
 
-after you clone the git, run CLI on the folder
-PHP Spark serve
+after you clone the git, run CLI on the folder.
+PHP Spark serve.
 
 ## What is CodeIgniter?
 
